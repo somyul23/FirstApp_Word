@@ -1,4 +1,4 @@
-# 📱 First Word
+# 📱 FirstWord
 
 ## 📌 概要
 
