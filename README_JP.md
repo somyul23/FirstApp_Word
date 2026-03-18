@@ -67,10 +67,51 @@ SwiftUIを用いて開発したiOS単語帳アプリです。
 
 ## 📸 Screenshots
 
-※ アプリのスクリーンショットを追加してください
+## 📚 単語帳画面
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/ca5af6d2-a0fd-44cd-aa82-693404391c6f" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/53a2cb98-991c-4442-8d30-e3682e1d105b" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/6d42eded-0801-4d03-8dfd-1ca9ed0f0cb4" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/8d7398f9-7c24-491d-b72b-e5a3f0a15ef0" />
+
+</p>
 
 
-## 👨‍💻 開発者
+---
 
-김영우
-iOS Developer (Swift / SwiftUI)
+## 📂 メニュー画面
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/48251f8a-8c57-4f5a-a523-2323d5aa8b3f" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/917dbb68-6321-4627-a8a1-edaa5c729125" />
+
+</p>
+
+---
+
+## 🔍 検索画面
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/fa132193-84c0-4ee6-8df3-fc8bd81b6a0a" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/d658df44-95e0-4dfd-8efc-c83da079308b" />
+
+</p>
+
+
+---
+
+## 📝 テスト画面
+
+<p align="center">
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/bf069135-5888-4b77-a384-43175fb7dea6" />
+  <img width="250" alt="image" src="https://github.com/user-attachments/assets/76ba03f4-74fe-4ba1-8565-b84ceea94394" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/14a9a2d5-5436-4ca4-9e3a-bba6916a59c5" />
+ <img width="250" alt="image" src="https://github.com/user-attachments/assets/a809bb7f-c600-4f03-8509-a337a73c9aa6" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/213ae755-7d55-4554-9d53-d0a521be50b7" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/b4db4848-5c97-4ae5-b1f8-d7248d548a46" />
+
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/c775956a-31c2-49dc-82f6-0beba57bfc24" />
+
+</p>
+
