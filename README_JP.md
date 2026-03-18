@@ -69,17 +69,6 @@ SwiftUIを用いて開発したiOS単語帳アプリです。
 
 ※ アプリのスクリーンショットを追加してください
 
----
-
-## 📦 実行方法
-
-```bash
-git clone https://github.com/somyul23/FirstApp_Word.git
-```
-
-Xcodeでプロジェクトを開いて実行してください
-
----
 
 ## 👨‍💻 開発者
 
