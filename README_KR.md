@@ -69,19 +69,3 @@ SwiftUI를 사용하여 개발한 iOS 단어장 애플리케이션입니다.
 
 ※ 여기에 앱 실행 화면 이미지를 추가해주세요
 
----
-
-## 📦 실행 방법
-
-```bash
-git clone https://github.com/somyul23/FirstApp_Word.git
-```
-
-Xcode에서 프로젝트를 열고 실행
-
----
-
-## 👨‍💻 개발자
-
-김영우
-iOS Developer (Swift / SwiftUI)
